@@ -1,0 +1,72 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height 100vh;
+    bakckground: #fff;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items:center ;
+    justify-content:center;
+}
+.card{
+    width: 680px;
+    height:550px;
+    blackground: #fff;
+    box-shadow: 0 20px 60px #f55951bd;
+    padding: 20px;
+    border-radius: 50px;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+.card-content{
+    display: flex;
+}
+.card .card-img{
+    width: 450%;
+    height: 150% 
+    border-radius: 90px;
+    overflow: hidden;
+
+    margin-right: 30px;
+}
+.car .card-img img{
+    width: 89%;
+    height: 60%;
+    object-fit: cover;
+}
+.car-text{
+    widtgh: 60%;
+}
+.car.car-text h4{
+    font-size: 75px;
+    font-weight: 800;
+    margin-top: 70px;
+}
+.car-text p{
+    font-weight: 700;
+    margin-bottom: 70px;
+}
+.icons{
+    margin-top: 15px;
+    font-size: 18px;
+    color: #f55951bd;
+}
+.item{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    border: 1px solid #f2dbd5;
+
+    text-align: center;
+    font-size: 18px;
+    color: #707070;
+
+    cursor:pointer;
+}

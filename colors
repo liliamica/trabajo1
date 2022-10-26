@@ -1,0 +1,17 @@
+background: #F2DBD5;
+box-shadow: 0 20px 60px #f55951bd;
+border-radius: 25px; - 15px
+img - 32%
+text - 50%
+
+icon
+    color: #f55951;
+
+item    
+    border: 1px solid #F2DBD5;
+    color: #707070;
+
+
+
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
